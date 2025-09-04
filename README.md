@@ -53,4 +53,3 @@ This project is a collection of over 30 dashboards. Below is a preview of a few 
 * **Top Performing Categories:** Categories like `Bed, Bath & Table`, `Health & Beauty`, and `Sports & Leisure` are the primary revenue drivers.
 * **Seasonal Peaks:** Identified major sales peaks around November (Black Friday) and May, indicating key periods for targeted marketing campaigns.
 
-## 📂 Repository Structure
