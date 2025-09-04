@@ -7,13 +7,7 @@ This repository contains a comprehensive Power BI project developed to analyze t
 
 The goal was to transform raw, complex e-commerce data into a cohesive and actionable business intelligence solution, empowering stakeholders at Olist to make data-driven decisions.
 
-## 📊 Live Dashboard
 
-Experience the full suite of interactive dashboards by clicking the link below:
-
-**[➡️ View the Interactive Power BI Report Live]([YOUR LIVE DASHBOARD LINK])**
-
-*(Note: Please allow a few moments for the report to load completely.)*
 
 ## 🎯 Project Goals
 
