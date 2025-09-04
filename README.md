@@ -40,21 +40,10 @@ Experience the full suite of interactive dashboards by clicking the link below:
 ## ✨ Dashboard Showcase
 
 This project is a collection of over 30 dashboards. Below is a preview of a few key reports:
+<img width="1235" height="733" alt="Screenshot 2025-09-04 105938" src="https://github.com/user-attachments/assets/f6e819c2-9da1-47cd-8b59-43487304d3dd" />
 
-| Dashboard Preview (Screenshot) | Description |
-| :---: | :--- |
-| **Executive KPI Summary** | A high-level overview of the most critical business KPIs, including total revenue, profit, number of orders, and active customers, with trend indicators. |
-| *[Insert Screenshot of your Executive Summary Dashboard here]* |
-| **Sales Performance Deep Dive** | An in-depth analysis of sales trends by product category, region, and time. Includes monthly performance, YoY growth, and forecasting. |
-| *[Insert Screenshot of your Sales Dashboard here]* |
-| **Customer Segmentation (RFM)** | A detailed dashboard segmenting customers based on Recency, Frequency, and Monetary (RFM) analysis to identify high-value customers. |
-| *[Insert Screenshot of your Customer Dashboard here]* |
-| **Logistics & Delivery Analysis** | Monitors the entire order fulfillment process, tracking average delivery times vs. estimated times, and analyzing shipping carrier performance. |
-| *[Insert Screenshot of your Logistics Dashboard here]* |
-| **Product Category Analysis** | Provides insights into the performance of different product categories, highlighting best-sellers, revenue contribution, and profitability per category. |
-| *[Insert Screenshot of your Product Dashboard here]* |
-| **Customer Satisfaction & Reviews** | Correlates customer review scores with factors like delivery time, product category, and seller performance to identify drivers of satisfaction. |
-| *[Insert Screenshot of your Reviews Dashboard here]* |
+
+
 
 ## 💡 Key Insights & Findings
 
