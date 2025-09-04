@@ -43,6 +43,7 @@ This project is a collection of over 30 dashboards. Below is a preview of a few 
 <img width="1235" height="733" alt="Screenshot 2025-09-04 105938" src="https://github.com/user-attachments/assets/f6e819c2-9da1-47cd-8b59-43487304d3dd" />
 
 
+<img width="1231" height="735" alt="Screenshot 2025-09-04 110015" src="https://github.com/user-attachments/assets/4a764b65-0c4d-4416-87ed-11ea6b994a43" />
 
 
 ## 💡 Key Insights & Findings
